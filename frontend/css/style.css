@@ -6,8 +6,8 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Poppins", sans-serif;
-  --font-secondary: "Nunito", serif;
+  --font-primary: "Nunito", sans-serif;
+  --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
   --bg-color: #121213e5;
   --bg-color-transparent: #0964be;
