@@ -2,8 +2,8 @@ const contractAddress = "0xeC8eB4D4d7fB9BBD8Bfeb0973cAC10cBc7562518"; //Replace 
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Tricky Goats";
-const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Tricky Goats are on twitter, it is our oficial channel. Follow us there to hear more about us <a href="https://twitter.com/trickygoatsnft"  target="_blank" rel="noopener noreferrer">codeSTACKr</a>.';
+const welcome_h2 = "Connect to MetaMask to Goat Started";
+const welcome_p = 'Tricky Goats are on twitter, follow our oficial channel for news <a href="https://twitter.com/trickygoatsnft"  target="_blank" rel="noopener noreferrer">codeSTACKr</a>.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
